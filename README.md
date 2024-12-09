@@ -20,7 +20,7 @@ Install all the required packages using the following command:
 
 - `dataset`: Directory containing the telco customer churn dataset.
 - `telco_customer_clustering.ipynb`: Script for extracting the features and implementing clustering methods.
-- `....ipynb`: Script for explanatory data analysis and implementing predictive models.
+- `telco_customer_predictive_models.ipynb`: Script for explanatory data analysis and implementing predictive models.
 
 ## Predictive Model Results:
 We tried four different classification models for churn predictions: Random Forest, Logistic Regression, Decision Tree, and MLP Classifier.
