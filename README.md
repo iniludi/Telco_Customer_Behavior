@@ -25,8 +25,7 @@ Install all the required packages using the following command:
 ## Predictive Model Results:
 We tried four different classification models for churn predictions: Random Forest, Logistic Regression, Decision Tree, and MLP Classifier.
 
-![models_performance](https://github.com/user-attachments/assets/4bb3155f-c50c-446a-bb78-f01090901f2b)
-
+![models_performance](https://github.com/user-attachments/assets/5ba397d3-517f-4ba0-9c47-2fac9e8c981b)
 
 ![Predictive Models - Models Performance](https://github.com/user-attachments/assets/539c530d-d865-445b-b13b-f9c0fdebb4d1)
 
