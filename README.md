@@ -12,8 +12,13 @@ The dataset used in this project is the Telco Customer Churn dataset, containing
 
 ## Code Setup and Requirements
 Install all the required packages using the following command:
+For implementing predictive models:
 ```
-    $ pip install -r requirements.txt
+    $ pip install -r requirements_predictive_models.txt
+```
+For implementing clustering:
+```
+    $ pip install -r requirements_clustering.txt
 ```
 
 ## Files:
