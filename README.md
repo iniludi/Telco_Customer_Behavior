@@ -1,6 +1,6 @@
 # Telco Customer Behavior
 
-This repo contains all the code used for the IDA course final project, "Telco Customer Behavior".
+This repo contains all the code used for the Introduction to Data Analysis (CS6850) final project, "Telco Customer Behavior".
 
 ## Project summary: 
 
