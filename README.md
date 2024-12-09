@@ -22,9 +22,15 @@ Install all the required packages using the following command:
 - `telco_customer_clustering.ipynb`: Script for extracting the features and implementing clustering methods.
 - `....ipynb`: Script for explanatory data analysis and implementing predictive models.
 
+## Predictive Model Results:
+We tried four different classification models for churn predictions: Random Forest, Logistic Regression, Decision Tree, and MLP Classifier.
+<img src="https://github.com/user-attachments/assets/f8098f3d-4a99-4424-8dc0-893ab7fe9a64" alt="predictive_models" width=75% height=75%/>
+
+
+
 ## Clustering Results:
 
-I used four different methods for clustering: Hierarchical (Agglomerative) Clustering with PCA, Hierarchical (Agglomerative) Clustering with t-SNE, K-Means Clustering with PCA, and K-Means Clustering with t-SNE.
+We used four different methods for clustering: Hierarchical (Agglomerative) Clustering with PCA, Hierarchical (Agglomerative) Clustering with t-SNE, K-Means Clustering with PCA, and K-Means Clustering with t-SNE.
 The results are as follow:
 
 #### 1. Hierarchical (Agglomerative) Clustering with PCA
